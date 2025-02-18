@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Página-1" id="2oM4Q9XbmDzBQZHpgmxb">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RrJnCaawAU24zcjAfA1V-2" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;Computer/Server&lt;/b&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="104" y="220" width="486" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RrJnCaawAU24zcjAfA1V-5" value="&amp;lt;&amp;lt;ExecutionEnviroment&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;JAVA JDK&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RrJnCaawAU24zcjAfA1V-6" value="HTTP MESSAGES" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590" y="430" as="sourcePoint" />
+            <mxPoint x="750" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RrJnCaawAU24zcjAfA1V-7" value="SPOTIFY" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="422" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RrJnCaawAU24zcjAfA1V-8" value="&amp;lt;&amp;lt;artefact&amp;gt;&amp;gt;&lt;div&gt;spotify-web-api&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
