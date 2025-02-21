@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-52" value="SIMPLEREPORT(BACKEND)" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=5;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="55.5" y="120" width="995" height="900" as="geometry" />
+          <mxGeometry x="50.5" y="120" width="995" height="900" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-9" value="LOGGING" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="414" y="900" width="148" height="70" as="geometry" />
@@ -14,16 +14,16 @@
           <mxGeometry x="720" y="585" width="274" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-11" value="DB" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="416" y="585" width="274" height="180" as="geometry" />
+          <mxGeometry x="411" y="585" width="274" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-12" value="CONFIG" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="90" y="585" width="274" height="180" as="geometry" />
+          <mxGeometry x="96" y="585" width="274" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-13" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; API" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=210;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="158" y="180" width="790" height="380" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-15" value="SERVICE" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="90" y="790" width="274" height="180" as="geometry" />
+          <mxGeometry x="96" y="790" width="274" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-8" value="EMAIL" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="102" y="830" width="70" height="50" as="geometry" />
