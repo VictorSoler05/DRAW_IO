@@ -50,7 +50,7 @@
           <mxGeometry x="850" y="685" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-23" value="REPOSITORY" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="553" y="685" width="130" height="65" as="geometry" />
+          <mxGeometry x="544" y="685" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-24" value="MODEL" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="423" y="610" width="130" height="65" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="730" y="790" width="148" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-54" value="VALIDATORS" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="846" y="890" width="148" height="70" as="geometry" />
+          <mxGeometry x="841" y="900" width="148" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-55" value="PROPERTIES" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="535" y="790" width="148" height="70" as="geometry" />
