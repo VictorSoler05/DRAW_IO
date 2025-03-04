@@ -127,6 +127,9 @@
         <mxCell id="xPKt4m1vADzZ8n8QkJy3-55" value="PROPERTIES" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="535" y="790" width="148" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="txVDOFmzxEv_zd3e2xi6-2" value="backend/src/main/java/gov/cdc/usds/simplereport" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="330" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
